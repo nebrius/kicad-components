@@ -1,4 +1,4 @@
-update=Thursday, November 23, 2017 'PMt' 02:09:19 PM
+update=Friday, November 24, 2017 'PMt' 02:04:48 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=components/regulators/nebrius-regulators
+LibName31=components/switch/nebrius-switch
