@@ -60,3 +60,5 @@ LibName28=contrib
 LibName29=valves
 LibName30=components/regulators/nebrius-regulators
 LibName31=components/switch/nebrius-switch
+LibName32=components/lcd/nebrius-lcd
+LibName33=components/conn/nebrius-conn
