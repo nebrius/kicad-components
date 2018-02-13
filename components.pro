@@ -1,4 +1,4 @@
-update=Friday, November 24, 2017 'PMt' 02:04:48 PM
+update=Tuesday, February 13, 2018 'AMt' 09:23:51 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -63,3 +61,6 @@ LibName31=components/switch/nebrius-switch
 LibName32=components/lcd/nebrius-lcd
 LibName33=components/conn/nebrius-conn
 LibName34=components/logic/nebrius-logic
+LibName35=components/microcontrollers/nebrius-microcontrollers
+[general]
+version=1
