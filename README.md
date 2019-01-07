@@ -2,6 +2,45 @@
 
 A list of components I created for various KiCAD projects.
 
+## Schematic Components
+
+**Connector:**
+
+- 10118194 Micro USB-B connector
+
+**LCD:**
+
+- DIY-OLED-0.96 I2C LCD Display
+
+**Logic:**
+
+- CD74HC4050 Buffer
+- SN74LVC1T45 Level Translator
+
+**Regulators:**
+
+- AP1507 Switching regulator
+
+**Switch:**
+
+- 318-ENC130175F-12PS Rotary Encoder (?)
+- CD40109B Level Translator?
+- SF303GJ26 5 way tactile switch
+- TSWA-3N-CD23
+- VO14642
+
+## Layout Footprints
+
+**Connector:**
+
+**Discrete:**
+
+**LCD:**
+
+**Regulator:**
+
+**Switch:**
+
 # License
 
 All schematics, layouts, software, and other documentation for this project are released under the General Public License.
